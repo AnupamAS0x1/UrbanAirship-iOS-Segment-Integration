@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UrbanAirship-iOS-Segment-Integration_Example' do
+  pod 'UrbanAirship-iOS-Segment-Integration', :path => '../'
+
+  target 'UrbanAirship-iOS-Segment-Integration_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
