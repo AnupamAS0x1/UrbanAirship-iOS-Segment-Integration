@@ -1,0 +1,6 @@
+framework module Pods_UrbanAirship_iOS_Segment_Integration_Tests {
+  umbrella header "Pods-UrbanAirship-iOS-Segment-Integration_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

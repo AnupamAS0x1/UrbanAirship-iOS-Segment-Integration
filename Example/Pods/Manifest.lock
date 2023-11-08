@@ -1,0 +1,16 @@
+PODS:
+  - UrbanAirship-iOS-Segment-Integration (0.1.0)
+
+DEPENDENCIES:
+  - UrbanAirship-iOS-Segment-Integration (from `../`)
+
+EXTERNAL SOURCES:
+  UrbanAirship-iOS-Segment-Integration:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UrbanAirship-iOS-Segment-Integration: 56050358b6c546174110b643f53e0e5cb00341e2
+
+PODFILE CHECKSUM: c0bf03c51a8ac2d631e59ace55778c0d013f4cd6
+
+COCOAPODS: 1.12.1

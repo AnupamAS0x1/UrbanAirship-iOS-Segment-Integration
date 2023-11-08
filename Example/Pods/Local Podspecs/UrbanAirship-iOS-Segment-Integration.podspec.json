@@ -1,0 +1,22 @@
+{
+  "name": "UrbanAirship-iOS-Segment-Integration",
+  "version": "0.1.0",
+  "summary": "A short description of UrbanAirship-iOS-Segment-Integration.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AnupamAS0x1/UrbanAirship-iOS-Segment-Integration",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AnupamAS0x1": "79111711+AnupamAS01@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/AnupamAS0x1/UrbanAirship-iOS-Segment-Integration.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "UrbanAirship-iOS-Segment-Integration/Classes/**/*"
+}
